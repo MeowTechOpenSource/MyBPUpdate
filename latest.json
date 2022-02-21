@@ -1,5 +1,5 @@
 [
-  {"Channel":"Stable","VersionName":"4.0.0","CodeVer":"40","DownloadDL":"https://github.com/MeowTechOpenSource/MyBPOSS/releases/"},
-  {"Channel":"Dev","VersionName":"4.0.0","CodeVer":"40","DownloadDL":"https://github.com/MeowTechOpenSource/MyBPOSS/releases/"},
-  {"Channel":"Beta","VersionName":"4.0.0","CodeVer":"40","DownloadDL":"https://github.com/MeowTechOpenSource/MyBPOSS/releases/"}
+  {"Channel":"Stable","VersionName":"4.0.0","CodeVer":"40","DownloadDL":"https://github.com/MeowTechOpenSource/MyBPOSS/releases/download/4.0.0/app-release-blue.apk"},
+  {"Channel":"Dev","VersionName":"4.0.0","CodeVer":"40","DownloadDL":"https://github.com/MeowTechOpenSource/MyBPOSS/releases/download/4.0.0/app-release-blue.apk"},
+  {"Channel":"Beta","VersionName":"4.0.0","CodeVer":"40","DownloadDL":"https://github.com/MeowTechOpenSource/MyBPOSS/releases/download/4.0.0/app-release-blue.apk"}
 ]
